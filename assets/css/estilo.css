@@ -132,7 +132,7 @@ main {
 
 .rformgren {
     border-style: none;
-    color: #306441;
+    color: #377c4e;
     font-weight: 600;
     font-family: Arial;
     
@@ -152,7 +152,11 @@ main {
 
 .rform {
     width: 100px;
-
+    color: #767676;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 500;
+    
 }
 
 .pezinho {
