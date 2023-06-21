@@ -30,6 +30,19 @@ main {
     margin-right: 31px;
 }
 
+.pesquisa input{
+    position: absolute;
+
+}
+
+.pesquisa #lupa{
+    width: 20px;
+    position: relative;
+    margin-left: 590px;
+
+}
+
+
 .pesquisa input {
     width: 674px;
     height: 49px;
@@ -42,6 +55,7 @@ main {
 .pesquisa input:focus{
     outline-color: #ededed;
 }
+
 
 .container2{
     display: flex;
@@ -107,7 +121,7 @@ main {
     text-decoration: none;
     color: #70757a;
     font-size: 14px;
-    text-shadow: 0px 0px 2px;
+    text-shadow: 0px 0px 0.5px;
    
 
 }
