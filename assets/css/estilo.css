@@ -36,10 +36,26 @@ main {
 }
 
 .pesquisa #lupa{
+    position: absolute;
+    margin-left: 635px;
+    margin-top: 14px;
     width: 20px;
-    position: relative;
-    margin-left: 590px;
+}
 
+.pesquisa #microfone {
+    width: 11px;
+    height: 16px;
+    margin-top: 16px;
+    margin-left: 610px;
+    position: absolute;
+}
+
+.pesquisa #teclado {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    margin-top: 12px;
+    margin-left: 575px;
 }
 
 
@@ -208,3 +224,53 @@ main {
 .outros2 {
     flex: 3;
 }
+
+.google {
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 267px;
+    font-weight: 600;
+}
+
+.paginas {
+    display: flex;
+    margin-left: 291px;
+    
+}
+
+
+.paginas a {
+    margin: 5px;
+    text-decoration: none;
+    color: #9eb3e3;
+}
+
+#aescu {
+    color: #525052;
+}
+
+#mais {
+    color: #768fc9;
+    margin-left: 18px;
+    text-decoration: underline;
+}
+
+.google #menor {
+    margin-left: 10px;
+    font-size: 19px;
+
+}
+
+#amarelo {
+    color: #eabf55;
+
+}
+
+.g ,.g{
+    color: #698ce7;
+}
+
+.o {
+    color: #ce3a32;
+}
+
